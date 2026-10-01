@@ -1,0 +1,9 @@
+# VNlytics
+
+> VNlytics is a narrative analytics project for story-based games, originally designed for the Ren'Py visual novel engine.
+
+This is an archived project. Its public homepage describes game-side choice recording, server-side collection, developer analysis, and optional comparisons for players.
+
+## Public resources
+
+- [Archived homepage](https://nellinc.github.io/old-VNlytics/): project overview, usage, and BSD 3-Clause licence text
