@@ -1,0 +1,17 @@
+[
+  {
+    "path": "NellInc__old-VNlytics/assets/fonts/google/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjekGrW.ttf",
+    "url": "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjekGrW.ttf",
+    "sha256": "293366f9765255e1b36e81393bdb72444975c815b93e381e1a26a938646bd0c5"
+  },
+  {
+    "path": "NellInc__old-VNlytics/assets/fonts/google/google-877848907fc6.css",
+    "url": "https://fonts.googleapis.com/css?family=Chivo:900",
+    "sha256": "2b2d784d7cd8a844f73d81078617be3f5a8addd9031556c56e583bfb044ec88c"
+  },
+  {
+    "path": "NellInc__old-VNlytics/assets/fonts/google/chivo-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/chivo/OFL.txt",
+    "sha256": "c9b69fa18c372df2b187b49efc57b1ea643b86a938e5af32f6b5a7af1017c891"
+  }
+]
